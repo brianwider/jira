@@ -1,31 +1,79 @@
-Docker + Chef Solo + Postgresql + Jira = Love!
+# Project Title
 
-License and Authors
--------------------
-Author: Tom Eklöf
-I am in no way affiliated with company Atlassian® or the Jira® product.
+One Paragraph of project description goes here
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you have to get a development env running
+
+Say what the step will be
+
+```
+Give the example
+```
+
+End with an example of getting some data out of the system or using it for a little demo
+
+## Parameters
+- data
+- language
+
+## Usage
+
+Example of the component with the use of the parameters:
+```html
+<my-component 
+   data="$ctrl.data"
+   language="$ctrl.language">
+</my-component>
+
+```
+
+## Running the demo
+
+Explain how to run the demo
 
 
-Description
------------
-This is Jira image with Postgresql.
+### Running
 
-Requirements
-------------
+Explain what is needed to run the demo
 
-Configuration
--------------
-    Database Type: PostgreSQL
-    Hostname: localhost
-    Database: jiradb
-    DBuser: postgres
+```
+Give an example
+```
 
+## Deployment
 
-Contributing
-------------
+Add additional notes about how to deploy this on a live system if it changes for a prod environment
 
-1. Fork the repository on Github
-2. Create a named feature branch (like `add_component_x`)
-3. Write your change
-4. Submit a Pull Request using Github
+## Built With
 
+* [Angular4](https://angular.io/docs) - The web framework used
+* [Others](https://others) - Others
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors or Owner
+
+* **Brian Wider** - *Initial work* - [Activities](https://st.almundo.com.ar/activities/results?code=bue)
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* Tips or tricks
+* etc
